@@ -11,9 +11,8 @@ simple inroduction about VRing-UP
 비디오 링
 
 ## Menu
-### 1.Tutorial
-
 ![ex_screenshot](./Image/mainmenu.png)
+### 1.Tutorial
 
 Through tutorial, We can learn about basic operation.<br>
 Also, Measuring patient conditions for setting game difficulties<br>
