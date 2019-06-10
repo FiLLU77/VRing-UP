@@ -8,7 +8,7 @@ Introduction
 ============
 simple inroduction about VRing-UP
 ## Video
-[![VRing-up](http://img.youtube.com/vi/C7JMUGOFiRk/0.jpg)](http://www.youtube.com/watch?v=C7JMUGOFiRk)
+[![VRing-up](http://img.youtube.com/vi/C7JMUGOFiRk/1.jpg)](http://www.youtube.com/watch?v=C7JMUGOFiRk?t=0s)
 
 ## Menu
 ![ex_screenshot](./Image/mainmenu.png)
