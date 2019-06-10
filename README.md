@@ -8,10 +8,12 @@ Introduction
 ============
 simple inroduction about VRing-UP
 ## Video
-비디오 링
+
+<iframe width="640" height="360" src="https://youtu.be/C7JMUGOFiRk" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ## Menu
 ![ex_screenshot](./Image/mainmenu.png)
+
 ### 1.Tutorial
 
 사
