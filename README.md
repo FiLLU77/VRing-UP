@@ -12,7 +12,7 @@ simple inroduction about VRing-UP
 <iframe width="640" height="360" src="https://youtu.be/C7JMUGOFiRk" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ## Menu
-![ex_screenshot](./Image/mainmenu.png)
+![ex_screenshot](./_include/mainmenu.png)
 
 ### 1.Tutorial
 
@@ -27,15 +27,15 @@ Also, Measuring patient conditions for setting game difficulties<br>
 You can run game on PC or Android samrtphone. <br>
 If you have VR motion sickness, we recommend run on PC <br>
 
-![ex_screenshot](./Image/computer.png)
+![ex_screenshot](./_include/computer.png)
 
 On Android smartphone, VR game are exectured.
 
-![ex_screenshot](./Image/vr.png)
+![ex_screenshot](./_include/vr.png)
 
 ## Architecture
 
-![ex_screenshot](./Image/structure.png)
+![ex_screenshot](./_include/structure.png)
 
 
 ## Development enviornment.
