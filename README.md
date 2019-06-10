@@ -13,29 +13,31 @@ simple inroduction about VRing-UP
 ## Menu
 ### 1.Tutorial
 
+![ex_screenshot](./Image/mainmenu.png)
+
 Through tutorial, We can learn about basic operation.<br>
 Also, Measuring patient conditions for setting game difficulties<br>
 
-사진
 
 ### 2.Game
 
 You can run game on PC or Android samrtphone. <br>
 If you have VR motion sickness, we recommend run on PC <br>
 
-사진
+![ex_screenshot](./Image/computer.png)
 
 On Android smartphone, VR game are exectured.
 
-사진
+![ex_screenshot](./Image/vr.png)
 
 ## Architecture
 
-사진
+![ex_screenshot](./Image/structure.png)
+
 
 ## Development enviornment.
 
-Unity <br>
+Unity 5.6.3f1(64-bit) <br>
 Myo SDK <br>
 Google VR SDK for unity <br>
 
